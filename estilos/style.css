@@ -2,8 +2,8 @@
 
 /* 
 Paleta de cores
-Verde: #49a09d
-Lilás: #5f2c82
+Verde: #4097ad
+Lilás: #602b91
 */
 
 * {
@@ -32,10 +32,14 @@ section#login {
     left: 50%;
     transform: translate(-50%, -50%);
     overflow: hidden;
+
     width: 250px;
     height: 500px;
     border-radius: 20px;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.450);
+
+    transition: width .3s, heigth .3s ;
+    transition-timing-function: ease;
 }
 
 section#login > div#imagem {
