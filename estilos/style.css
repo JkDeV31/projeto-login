@@ -14,7 +14,7 @@ Lilás: #602b91
 }
 
 body, html {
-    background-color: #5f2c82;
+    background-color: #57478D;
     height: 100vh;
     width: 100vw;
 }
@@ -44,7 +44,7 @@ section#login {
 
 section#login > div#imagem {
     display: block;
-    background: #602b91 url(../imagens/imagem-projeto-login.jpg) no-repeat;
+    background: #57478D url(../imagens/imagem-projeto-login.jpg) no-repeat;
     background-size: cover;
     background-position: left bottom;
     height: 200px;
